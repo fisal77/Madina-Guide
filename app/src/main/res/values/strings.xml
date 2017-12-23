@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Madina Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_historical_site">Historical Sites</string>
+    <string name="nav_hotel">Hotels</string>
+    <string name="nav_restaurant">Restaurants</string>
+    <string name="nav_events">Events</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="communicate">Communicate</string>
+
+    <string name="page_position">Page</string>
+    <string name="madina_tour_guide">Madina Tour Guide</string>
+    <string name="sliding_left_or_touch_the_tabs_on_above"><![CDATA[Sliding left -> or touch the tabs on above]]></string>
+    <string name="rawdhah_historical">Rawdhah</string>
+    <string name="rawdhah_historical_url">http://maps.google.com/?q=24.4675901,39.6113724</string>
+    <string name="rawdhah_historical_details">Is the pure spot in the immaculate teacher to whom the thirsty yearns, and racing to prayer where contestants, that place located between the house of the Prophet peace be upon him - the room of Mrs. Aisha may Allah be pleased</string>
+    <string name="hotel_url">https://www.google.com.sa/search?q=madina+hotel</string>
+    <string name="hotel_title">Le Meridien Medina</string>
+    <string name="hotel_details">Le Meridien Madina is located just 10 minutes’ drive from Al Haram in Medina Munawarrah. It offers rooms and suites with Italian marble furnishings and a free shuttle service to Al Haram. For more details click on below link.</string>
+    <string name="mawlid_event_title">Mawlid</string>
+    <string name="mawlid_event_details">Mawlid or Mawlid al-Nabi al-Sharif (Arabic: مَولِد النَّبِي‎ mawlidu n-nabiyyi, Birth of the Prophet, sometimes simply called in colloquial Arabic مولد mawlid, mevlid, mevlit, mulud among other vernacular pronunciations; sometimes ميلاد mīlād) is the observance of the birthday of the Islamic prophet Muhammad PBUH.  For more details click on below link.</string>
+    <string name="for_more_info_click_the_below_link">For more info click the below link.</string>
+    <string name="mawlid_event_url">https://en.wikipedia.org/wiki/Mawlid</string>
+    <string name="restaurant_url">https://www.google.com.sa/search?q=madina+restaurant</string>
+
+
+</resources>
